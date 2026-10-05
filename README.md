@@ -124,7 +124,6 @@ The ESP32 evaluates incoming sensor data against defined threshold logic in a pr
 * `ArduinoJson` (v6 or higher)
 
 
-
 ### Step 1: Hardware Assembly
 
 Connect components according to the pinout layout:
